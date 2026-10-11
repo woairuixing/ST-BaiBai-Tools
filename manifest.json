@@ -3,7 +3,7 @@
     "loading_order": -1000,
     "requires": [],
     "optional": [],
-    "js": "dist/index.js?ver=1.0.0",
+    "js": "dist/index.js",
     "author": "柏柏",
     "version": "1.0.0",
     "homePage": "",
